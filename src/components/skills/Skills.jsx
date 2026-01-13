@@ -5,7 +5,7 @@ import html from './images/html.png'
 import js from './images/js.png'
 import react from './images/React-icon.png'
 import php from './images/php.png'
-import laravel from "./images/laravel.png";
+import laravel from "./images/Laravel.png";
 import sql from './images/sql.png'
 import Figma from './images/figma.png'
 
