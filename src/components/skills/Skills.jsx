@@ -1,13 +1,13 @@
 import './skills.css';
 import React from 'react'
-import css from './imges/CSS3_logo.png'
-import html from './imges/html.png'
-import js from './imges/js.png'
-import react from './imges/React-icon.png'
-import php from './imges/php.png'
-import laravel from './imges/laravel.png'
-import sql from './imges/sql.png'
-import Figma from './imges/figma.png'
+import css from './images/CSS3_logo.png'
+import html from './images/html.png'
+import js from './images/js.png'
+import react from './images/React-icon.png'
+import php from './images/php.png'
+import laravel from "./images/laravel.png";
+import sql from './images/sql.png'
+import Figma from './images/figma.png'
 
 
 const skillsData = [

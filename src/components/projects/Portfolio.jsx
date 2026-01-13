@@ -1,11 +1,11 @@
 import React from 'react';
 import './projects.css';
-import faq from './imges/FAQsProject.png'
-import calculatorApp from './imges/calculator-app.png';
-import tipCalculatorApp from './imges/tip-calculator-app.png';
-import expensesChartComponent from './imges/expenses-chart-component.png';
-import insureLandingPage from './imges/insure-landing-page.png';
-import fyloLandingPage from './imges/fylo-landing-page.png';
+import faq from './images/FAQsProject.png'
+import calculatorApp from './images/calculator-app.png';
+import tipCalculatorApp from './images/tip-calculator-app.png';
+import expensesChartComponent from './images/expenses-chart-component.png';
+import insureLandingPage from './images/insure-landing-page.png';
+import fyloLandingPage from './images/fylo-landing-page.png';
 
 const Projects = [
     {

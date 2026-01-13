@@ -1,12 +1,12 @@
 import React from 'react'
-import Home from './conpponts/home/Home'
-import About from './conpponts/about/About'
-import Skills from './conpponts/skills/Skills'
-import Portfolio from './conpponts/projects/Portfolio'
-import Contact from './conpponts/contact/Contact'
-import Footer from './conpponts/footer/Footer'
-import Services from './conpponts/serveces/Services'
-import Nave from './conpponts/nave/Nave'
+import Home from './components/home/Home'
+import About from './components/about/About'
+import Skills from './components/skills/Skills'
+import Portfolio from './components/projects/Portfolio'
+import Contact from './components/contact/Contact'
+import Footer from './components/footer/Footer'
+import Services from './components/serveces/Services'
+import Nave from './components/nave/Nave'
 function App() {
   return (
     <div>
